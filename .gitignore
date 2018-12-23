@@ -1,3 +1,4 @@
 .cpcache
 target/
+/build/
 .rebel_readline_history

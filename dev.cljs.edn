@@ -1,3 +1,4 @@
 ^{	:log-syntax-error-style :concise 
-	:css-dirs ["resources/public/css"]}
+	:css-dirs ["resources/public/css"]
+}
 {:main schwibbes-sudoku.core}
